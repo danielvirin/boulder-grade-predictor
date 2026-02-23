@@ -8,8 +8,6 @@ Climbing grades are subjective — the same problem can feel V5 to one climber a
 
 The Kilter Board app lets anyone set a climb and assign a grade. Other climbers can then log ascents and vote on whether the grade feels accurate. But the app's "Quick Log Ascent" feature auto-logs a flash at the setter's grade, flooding the grade histogram with potentially inaccurate data. This makes it hard to find climbs that are truly at a given grade.
 
-**This model cuts through the noise** — it predicts what grade a climb *should* be based on its hold configuration, spatial properties, and board angle, independent of the setter's opinion.
-
 ## Features
 
 - Extracts and processes climb data from the Kilter Board SQLite database
